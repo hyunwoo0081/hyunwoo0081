@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=300&section=header&text=Hyunwoo0081&animation=fadeIn&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=61FF7E&height=300&section=header&text=Hyunwoo0081&animation=fadeIn&fontSize=90)
 
 <h2 align="center"> ⛏ SKILL ⛏ </h2>
 <div align="center">
